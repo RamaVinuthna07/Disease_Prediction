@@ -1,1 +1,1 @@
-# Credit_score-model
+disease_prediction
